@@ -2,7 +2,7 @@ title: Smooth and Twang
 
 profiles: 
   production: 
-    base_url: http://nawroth.github.com/smooth-and-twang
+    base_url: http://nawroth.github.com/smooth-and-twang/
     deploy: 
       host: github_pages
 
