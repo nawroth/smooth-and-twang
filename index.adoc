@@ -3,3 +3,5 @@
 
 Stämningsfull musik!
 
+image::gitarr-stall.jpg[]
+
