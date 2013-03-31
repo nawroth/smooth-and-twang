@@ -1,8 +1,5 @@
----
-layout: base
----
+= Smooth &amp; Twang =
+:awestruct-layout: base
 
-= Smooth and Twang =
-
-Best of two worlds!
+Stämningsfull musik!
 
