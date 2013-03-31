@@ -1,0 +1,8 @@
+---
+layout: base
+---
+
+= Smooth and Twang =
+
+Best of two worlds!
+
