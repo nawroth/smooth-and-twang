@@ -1,5 +1,7 @@
-== Bilder ==
+= Bilder =
 :awestruct-layout: base
+:caption:
 
+.Galleri Isie Tio påskrundan 2013
 image::konstrundan-2013-isietio.jpg[]
 
