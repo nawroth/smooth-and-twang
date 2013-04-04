@@ -1,0 +1,12 @@
+== Om oss ==
+:awestruct-layout: base
+
+=== Anders ===
+
+image::IMG097-anders.jpg[]
+
+=== Micke ===
+
+image::IMG098-micke.jpg[]
+
+

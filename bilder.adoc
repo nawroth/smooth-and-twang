@@ -1,4 +1,4 @@
-= Bilder =
+== Bilder ==
 :awestruct-layout: base
 
 image::konstrundan-2013-isietio.jpg[]
