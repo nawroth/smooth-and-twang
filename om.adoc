@@ -1,11 +1,11 @@
 = Om oss =
 :awestruct-layout: base
 
-== Anders ==
+== Mr Smooth (Anders) ==
 
 image::IMG097-anders.jpg[]
 
-== Micke ==
+== Mr Twang (Michael) ==
 
 image::IMG098-micke.jpg[]
 
