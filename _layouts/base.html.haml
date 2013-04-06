@@ -11,20 +11,28 @@
     %link{ :rel=>'stylesheet', :type=>'text/css', :href=>"#{site.base_url}/stylesheets/styles.css" }
     /[if lt IE 9]
       %script{ :type=>'text/javascript', :src=>'//html5shim.googlecode.com/svn/trunk/html5.js' }
-    -# %script{:type=>'text/javascript', :src=>'//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'}
-    -# %script{:type=>'text/javascript', :src=>'//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js'}
+    %script{:type=>'text/javascript', :src=>'//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'}
+    %script{:type=>'text/javascript', :src=>'//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js'}
+    %script{:type=>'text/javascript', :src=>'/javascripts/sat.js'}
   %body
     .navbar.navbar-fixed-top
       .navbar-inner
         .container
-          %a.brand{ :href=>"#{site.base_url}" } Smooth & Twang
+          %a.brand{ :href=>"#{site.base_url}" }
+            Smooth & Twang
           %ul.nav
             %li
-              %a{ :href=>"#{site.base_url}/lyssna.html" } Lyssna
+              %a{ :href=>"#{site.base_url}/lyssna.html" } 
+                %i.icon-music
+                Lyssna
             %li
-              %a{ :href=>"#{site.base_url}/bilder.html" } Bilder
+              %a{ :href=>"#{site.base_url}/bilder.html" } 
+                %i.icon-picture
+                Bilder
             %li
-              %a{ :href=>"#{site.base_url}/om.html" } Om oss
+              %a{ :href=>"#{site.base_url}/om.html" } 
+                %i.icon-user
+                Om oss
     .container
       ~ content
       %hr
